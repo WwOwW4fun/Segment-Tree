@@ -1,2 +1,2 @@
 # Segment-Tree
-Include lazy update
+Includes lazy update
